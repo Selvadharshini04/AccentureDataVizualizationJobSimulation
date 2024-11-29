@@ -1,14 +1,12 @@
 # Forage Accenture DataVizualization JobSimulation
-Social Buzz, a rapidly expanding technology unicorn, must adapt swiftly to its global scale.
+⚙️Social Buzz, a rapidly expanding technology unicorn, must adapt swiftly to its global scale.
 
 ❓But with such an overwhelming volume, how can it be effectively leveraged?
 
 📊An analysis is needed to identify Social Buzz's top 5 most popular categories.
 
 
-
-
-👩🏻‍💻Accenture has initiated a 3 month proof of concept  focused on the following objectives:
+👩🏻‍💻Objectives:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   1) Conducting an audit of Social Buzz's big data practices
@@ -17,7 +15,6 @@ Social Buzz, a rapidly expanding technology unicorn, must adapt swiftly to its g
 
   3) Analyzing data to identify Social Buzz's top five most popular content categories
 
-     
 
 📈Insights Found:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
