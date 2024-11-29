@@ -1,7 +1,15 @@
-# AccentureDataVizualizationJobSimulation
+# Forage Accenture DataVizualization JobSimulation
 Social Buzz, a rapidly expanding technology unicorn, must adapt swiftly to its global scale.
 
-Accenture has initiated a three-month proof of concept (POC) focused on the following objectives:
+❓But with such an overwhelming volume, how can it be effectively leveraged?
+
+📊An analysis is needed to identify Social Buzz's top 5 most popular categories.
+
+
+
+
+👩🏻‍💻Accenture has initiated a 3 month proof of concept  focused on the following objectives:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   1) Conducting an audit of Social Buzz's big data practices
 
@@ -9,14 +17,20 @@ Accenture has initiated a three-month proof of concept (POC) focused on the foll
 
   3) Analyzing data to identify Social Buzz's top five most popular content categories
 
-Insights Found:
+     
+
+📈Insights Found:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   1) There are 16 distinct content categories, with Animal and Science being the most popular.
 
   2) The content types include Photo, Video, Gif, and Audio, with Photo and Video being the most preferred by the audience.
 
   3) The highest number of posts occur in May.
 
-Conclusion:
+     
+
+🎯Conclusion:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   1) Efforts should prioritize the top 5 categories: Animal, Technology, Science, Healthy Eating, and Food.
 
